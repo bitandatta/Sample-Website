@@ -1,0 +1,32 @@
+p,ul {        
+    color:teal;
+    font-size: 20px;
+    line-height: 2;
+    
+  
+}
+h1{
+    color: brown;
+    font-size: 65px;
+    text-align: center;
+    border: 1px solid brown;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 3px #6E2313;
+}
+#para1{
+    text-align: center;
+    font-weight: 900;
+}
+body{
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 1000px;
+    border: 3px solid teal;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Loco;
+}
+html{
+    background-color: azure;
+}
